@@ -1,5 +1,5 @@
 console.log("javascript");
-console.log("hoadv");
+console.log("quangnd");
 
-// let myName: string = "hoadv";
+// let myName: string = "quangnd";
 // console.log(myName);
