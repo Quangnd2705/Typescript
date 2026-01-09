@@ -9,6 +9,8 @@ const averageScore = (...scores) => {
 };
 console.log(averageScore(10, 20, 30));
 console.log(averageScore(50, 100, 150));
+
+//2. Kiểm tra số chẵn lẻ
 const checkNumber = (n) => {
     return n % 2 === 0 ? "even" : "odd";
 };
