@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //1. Tạo type product
 var Rate;
 (function (Rate) {
-    Rate["low"] = "Thấp";
-    Rate["medium"] = "Trung bình";
+    Rate["low"] = "Th\u1EA5p";
+    Rate["medium"] = "Trung b\u00ECnh";
     Rate["hight"] = "Cao";
 })(Rate || (Rate = {}));
 //2. Tạo mảng listproduct
